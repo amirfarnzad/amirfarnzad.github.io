@@ -45,6 +45,7 @@ linkedin_username: amirfarnzad
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
+  **CV: [PDF](https://amirfarnzad.github.io/CV.pdf)**
   As an undergraduate student, I am dedicated to academic pursuits, leveraging my skills in marketing and biotechnology.
 
 content:
