@@ -5,14 +5,15 @@ version: 2
 # Personal info
 name: Amir H. Farnaghizad
 title: Biotechnology Student
-email: amirfarnzad@yahoo.com
-website: int-n.info
+
+
 
 # Dark Mode (true/false/never)
 darkmode: never
 
 # Social links
 # twitter_username: amirfarnzad
+email: amirfarnzad@yahoo.com
 github_username:  amirfarnzad
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
