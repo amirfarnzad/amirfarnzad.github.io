@@ -48,8 +48,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   **CV: [PDF](https://amirfarnzad.github.io/CV.pdf)**
   
-  As a dedicated Biotechnology student with a deep passion for exploring the complexities of science and business,
-  I am driven by a strong interest in pursuing a Master's degree in Business Management.
+  As a dedicated <mark>Biotechnology</mark> student with a deep passion for exploring the complexities of science and business,
+  I am driven by a strong interest in pursuing a Master's degree in <mark>Business Management</mark>.
   This stems from my recognition of the critical role that effective business strategies play in the successful translation of biotechnological breakthroughs into practical applications that benefit society.
   
 
