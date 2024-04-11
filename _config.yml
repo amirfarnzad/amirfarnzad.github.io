@@ -13,6 +13,7 @@ email: amirfarnzad@yahoo.com
 github_username:  amirfarnzad
 in_username: amirfarnzad
 googlescholar_username: 0A0A0A
+orcid_username: 0000-0000-0000-0000
 
 about_profile_image: images/profile.jpg
 about_content: |
@@ -24,19 +25,13 @@ about_content: |
   
 
 content:
- 
-  - title: Education
-    layout: list
+  - title: Publications
+    layout: pub
     content:
-      - layout: top-middle
-        title: Islamic Azad University
-        caption: 2021 - 2025
-        sub_title: Bachelor of Science, Biotechnology
-     
-      - layout: top-middle
-        title: National Organization for Development of Exceptional Talents
-        caption: 2015 - 2021
-        sub_title: Student, Science
+      - title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+        authors: <b>Farnaghizad, A.</b>, ...,
+        journal: eiusmod
+        link: 
       
 
 remote_theme: mo-shakiba/intCV
