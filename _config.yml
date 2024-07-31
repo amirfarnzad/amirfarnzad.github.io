@@ -1,15 +1,15 @@
-repository: mo-shakiba/intCV
+repository: moneuron/intCV
 favicon: images/favicon.ico
 
 version: 2
 darkmode: never
 
-last_update: Mar 26, 2024
+last_update: Jul 31, 2024
 
 name: Amir H. Farnaghizad
 title: Biotechnology Student
 
-email: amirfarnzad@yahoo.com
+email: amir@int-n.info
 github_username:  amirfarnzad
 in_username: amirfarnzad
 googlescholar_username: 0A0A0A
@@ -17,12 +17,9 @@ orcid_username: 0000-0000-0000-0000
 
 about_profile_image: images/profile.jpg
 about_content: |
-  **CV: [PDF](https://amirfarnzad.github.io/CV.pdf)**
+  **CV: [PDF](https://amirfarnzad.github.io/cv.pdf)**
   
-  As a dedicated <mark>Biotechnology</mark> student with a deep passion for exploring the complexities of science and business,
-  I am driven by a strong interest in pursuing a Master's degree in <mark>Business Management</mark>.
-  This stems from my recognition of the critical role that effective business strategies play in the successful translation of biotechnological breakthroughs into practical applications that benefit society.
-  
+  As a dedicated <mark>Biotechnology</mark> student with a deep passion for exploring the complexities of science and business,  
 
 content:
   - title: Publications
@@ -34,7 +31,7 @@ content:
         link: 
       
 
-remote_theme: mo-shakiba/intCV
+remote_theme: moneuron/intCV
 
 sass:
   sass_dir: _sass
